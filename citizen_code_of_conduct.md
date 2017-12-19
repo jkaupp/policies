@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Community Code of Conduct
 
 ## 1. Purpose
 
